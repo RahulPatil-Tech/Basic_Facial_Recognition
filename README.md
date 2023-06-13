@@ -1,4 +1,4 @@
-# Basic_Facial_Recognition
+# Basic_Facial_Recognition_Using_Python
 In this we have used haarcascade_frontalface_default.xml and Python Opencv Library 
 
 <br>1.Installing OpenCV</br></b>
